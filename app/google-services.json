@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "88870014471",
+    "project_id": "destekproject",
+    "storage_bucket": "destekproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88870014471:android:28921f67cbbf6a3a53a4a2",
+        "android_client_info": {
+          "package_name": "com.example.destek_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88870014471-430r56mimebco4k4vi0ug71i60smfvjd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.destek_project",
+            "certificate_hash": "72fa1250a44b1223c6801c303a54817a073d46fd"
+          }
+        },
+        {
+          "client_id": "88870014471-9n82a8ktpj6ov7r9ctpab0l515iia8ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFIaw5rwB__Wrqxgyp9uIYsIGvtH236aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88870014471-9n82a8ktpj6ov7r9ctpab0l515iia8ve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
